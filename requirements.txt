@@ -1,0 +1,16 @@
+# Google ADK - Agent Development Kit
+google-adk>=1.28.0
+
+# Vertex AI
+google-cloud-aiplatform>=1.40.0
+
+# AlloyDB
+google-cloud-alloydb-connector[pg8000]>=1.0.0
+sqlalchemy>=2.0.0
+pg8000>=1.30.0
+
+# BigQuery
+google-cloud-bigquery>=3.0.0
+
+# Utilities
+python-dateutil>=2.8.0

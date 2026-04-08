@@ -1,0 +1,41 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# ADK
+.adk/
+*$py.class
+*.egg-info/
+dist/
+build/
+*.egg
+
+# Environment
+.env
+.env.*
+venv/
+.venv/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Database
+*.db
+*.sqlite
+
+# Logs
+*.log
+
+# Google Cloud
+.gcloudignore
+
+# Audit & Pitch (local only)
+audit.md
+pitch.md

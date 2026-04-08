@@ -1,0 +1,17 @@
+__pycache__
+*.py[cod]
+.adk
+*.egg-info
+dist
+build
+.git
+.gitignore
+.env
+.env.*
+venv
+.venv
+*.md
+.idea
+.vscode
+*.db
+*.sqlite
